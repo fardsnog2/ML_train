@@ -126,7 +126,7 @@ from sklearn.metrics import classification_report
 print(classification_report(y_test, y_pred))
 ```
  ![image](https://github.com/fardsnog2/ML_train/assets/32564844/e3296e88-b0f4-4375-9dae-5c3c9096e4f7)\
-вот как выглядит тут важно точность(accurancy) чем больше тем лучше
+вот как выглядит тут важно точность(accurancy) чем больше тем лучше\
 auc-roc - код выглядит так - 
 ```
 sns.set(font_scale=1.5)
