@@ -159,19 +159,19 @@ plt.show()
 PS.\
 данный шаблон решения применим к 90%+- задачи с текстами но это зависит от задачи самой что именно надо 
 + не забывать делать шаги заданий и делать то что они хотят и ход решения может меняться от задачи к задаче\
-+ Для категориальных данных и числовых все графики, encoder и так далее есть в примерах романа и в наших лабах поэтому тут не буду описывать их,тут именно как с текстами делать
-+ Возможно когда влад и данил пройдут его то я обновлю файл на основе их рассказов
++ Для категориальных данных и числовых все графики, encoder и так далее есть в примерах романа и в наших лабах поэтому тут не буду описывать их,тут именно как с текстами делать\
++ Возможно когда влад и данил пройдут его то я обновлю файл на основе их рассказов\
 ССЫЛКИ:\
-<https://github.com/Letch49/ML_vvsu_2024> - гит Романа
-<https://disk.yandex.ru/d/FrLTsBEUI44H9g> - лекции
-<https://www.kaggle.com/code/harinuu/spam-mail-binary-logistic-regression> - задача с почтой на классификацию от романа тут именно код можно посмотреть 
-<https://github.com/yourrandomface/DA_VVSU_2022> - гит Георгия там тоже ML 
-<https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/> - метод локтя 
-<https://habr.com/ru/companies/ods/articles/328372/> - про классификацию
-<https://skine.ru/articles/224019/> - кластеризация текстов пример
-<https://skine.ru/articles/86958/> - алгоритмы классификации
-<https://scikit-learn.org/stable/index.html> - библиотека sklearn там можно поискать все
-<https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html> - PCA
-<https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html> - CountVectorizer
-<https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html> - tf-idf
+<https://github.com/Letch49/ML_vvsu_2024> - гит Романа\
+<https://disk.yandex.ru/d/FrLTsBEUI44H9g> - лекции\
+<https://www.kaggle.com/code/harinuu/spam-mail-binary-logistic-regression> - задача с почтой на классификацию от романа тут именно код можно посмотреть \
+<https://github.com/yourrandomface/DA_VVSU_2022> - гит Георгия там тоже ML \
+<https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/> - метод локтя \
+<https://habr.com/ru/companies/ods/articles/328372/> - про классификацию\
+<https://skine.ru/articles/224019/> - кластеризация текстов пример\
+<https://skine.ru/articles/86958/> - алгоритмы классификации\
+<https://scikit-learn.org/stable/index.html> - библиотека sklearn там можно поискать все\
+<https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html> - PCA\
+<https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html> - CountVectorizer\
+<https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html> - tf-idf\
 <https://python-school.ru/blog/russian-text-preprocessing/> - пример с лематизацией токенезацией и стоп-словами
